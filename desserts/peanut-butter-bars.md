@@ -28,4 +28,7 @@
 
 ## Notes
 
--
+- Better chocolate: swap the chips for about 9 oz chopped European bars, such as Lindt Excellence or Ritter Sport, or Moser Roth or Choceur from Aldi. Melt them with the peanut butter the same way.
+- Mix it up: top with milk, dark, or white chocolate, a half-and-half blend, or swirl two together before chilling.
+- Other flavors: butterscotch chips, mint or orange dark chocolate, or sea salt caramel. Flavored bars melt best without nuts or crunchy bits. Sprinkle flaky salt or crushed toffee on top before chilling.
+- White chocolate and butterscotch scorch easily. Microwave in 10-second bursts instead of 15.

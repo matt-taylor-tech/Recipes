@@ -25,3 +25,7 @@
 
 - No double boiler: melt the chocolate in the microwave in 30-second intervals, stirring after each.
 - Best served chilled, or after softening at room temperature for 10 minutes.
+- Better chocolate: swap the chips for about 12 oz chopped European bars, such as Lindt Excellence or Ritter Sport, or Moser Roth or Choceur from Aldi. Stir in about 1 tsp neutral oil or shortening per cup of chocolate for smoother dipping.
+- Mix it up: coat batches in milk, dark, semisweet, or white chocolate, or drizzle one over another.
+- Other flavors: butterscotch chips, mint or orange dark chocolate, or sea salt caramel. Flavored bars melt best without nuts or crunchy bits. Sprinkle flaky salt or crushed toffee on top while the coating is still wet.
+- White chocolate and butterscotch scorch easily. Melt them over very low heat and stir often.
