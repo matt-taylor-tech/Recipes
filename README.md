@@ -21,6 +21,8 @@ One Markdown file per recipe, grouped by category. To add one, copy [_template.m
 ## Desserts
 
 - [Peanut Butter Balls](desserts/peanut-butter-balls.md)
+- [Peanut Butter Bars](desserts/peanut-butter-bars.md)
+- [Peanut Butter Chews](desserts/peanut-butter-chews.md)
 
 ## Sauces
 
