@@ -48,4 +48,5 @@
 
 ## Notes
 
--
+- Shortcut: skip steps 1-3 and use store-bought refrigerated pizza dough (e.g. Harris Teeter dough balls). Let it sit at room temperature 20-30 minutes, divide into 6, and stretch thin. If it springs back, let it rest 5 minutes and try again.
+- Canned biscuits (e.g. Grands) also work, flattened and fried. They come out sweeter and puffier.

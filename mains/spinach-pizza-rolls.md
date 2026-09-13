@@ -30,3 +30,4 @@
 ## Notes
 
 - Works as an appetizer, a side, or a weeknight dinner with a salad.
+- Dough: canned Pillsbury Classic Pizza Crust is the 13.8 oz package. A refrigerated pizza dough ball (e.g. Harris Teeter) works too. Let it sit at room temperature 20-30 minutes before stretching it to 13x10 inches.

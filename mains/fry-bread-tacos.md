@@ -39,5 +39,6 @@
 ## Notes
 
 - Make everything but the fry bread ahead, then reheat before serving.
+- This dough has no yeast and doesn't need to rise, so it's quick. For a shortcut, use store-bought refrigerated pizza dough (e.g. Harris Teeter dough balls) or flattened canned biscuits (e.g. Grands) instead.
 - Other good toppings: onion, sour cream, guacamole.
 - Leftover fry bread makes a dessert: coat with cinnamon and sugar and drizzle with honey.
