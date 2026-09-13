@@ -61,3 +61,4 @@
 ## Notes
 
 - Best made the night before: cool, refrigerate, and reheat the next day.
+- Ground venison works in place of the ground beef. It's very lean, so there's little grease to drain. Brown it with a tablespoon of oil if it sticks.
