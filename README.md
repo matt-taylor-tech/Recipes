@@ -21,3 +21,9 @@ One Markdown file per recipe, grouped by category. To add one, copy [_template.m
 ## Desserts
 
 - [Peanut Butter Balls](desserts/peanut-butter-balls.md)
+
+## Sauces
+
+- [Eastern North Carolina BBQ Sauce](sauces/eastern-nc-bbq-sauce.md)
+- [Mustard-Based BBQ Sauce](sauces/mustard-bbq-sauce.md)
+- [Western North Carolina Vinegar Barbeque Sauce](sauces/western-nc-vinegar-bbq-sauce.md)
