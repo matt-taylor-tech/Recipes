@@ -9,6 +9,7 @@ One Markdown file per recipe, grouped by category. To add one, copy [_template.m
 - [Bánh Mì Chả Gà (Chicken Patty Bánh Mì)](mains/chicken-patty-banh-mi.md)
 - [Boilermaker Tailgate Chili](mains/chili.md)
 - [Fry Bread Tacos](mains/fry-bread-tacos.md)
+- [Homemade Spinach Pizza Rolls](mains/spinach-pizza-rolls.md)
 - [Indian Tacos with Yeast Fry Bread](mains/indian-tacos-yeast-fry-bread.md)
 
 ## Baking
