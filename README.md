@@ -15,6 +15,7 @@ One Markdown file per recipe, grouped by category. To add one, copy [_template.m
 ## Baking
 
 - [Banana Bread](baking/banana-bread.md)
+- [Heavy Cream Cinnamon Roll Hack](baking/cinnamon-roll-hack.md)
 
 ## Salads
 
