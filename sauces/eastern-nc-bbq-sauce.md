@@ -17,7 +17,7 @@
 ## Instructions
 
 1. Combine all the ingredients in a jar or bottle with a tight-fitting lid and shake well.
-2. Refrigerate, shaking occasionally, until the flavors blend, 1 to 2 days.
+2. Refrigerate, shaking occasionally, until the flavors blend, **1 to 2 days**.
 
 ## Notes
 

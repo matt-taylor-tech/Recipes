@@ -54,7 +54,7 @@
 1. Heat a large stock pot over medium-high heat. Crumble in the beef and sausage and cook, stirring often, until evenly browned. Drain off excess grease.
 2. Add both kinds of beans, the diced tomatoes, and tomato paste.
 3. Add the vegetables, bacon bits, bouillon, beer, and all the seasonings. Stir to blend.
-4. Cover and simmer on low for at least 2 hours, stirring occasionally. The longer it simmers, the better.
+4. Cover and **simmer on low for at least 2 hours**, stirring occasionally. The longer it simmers, the better.
 5. Taste and add more salt, pepper, or chili powder if needed.
 6. Ladle into bowls and top with corn chips and Cheddar.
 

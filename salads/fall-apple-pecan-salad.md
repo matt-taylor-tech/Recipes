@@ -32,10 +32,10 @@
 
 ## Instructions
 
-1. For the pecans: melt the butter in a pan, then add the brown sugar, salt, and pecans. Cook for 5 minutes, stirring. Cool on parchment.
+1. For the pecans: melt the butter in a pan, then add the brown sugar, salt, and pecans. Cook for **5 minutes**, stirring. Cool on parchment.
 2. Whisk the vinaigrette ingredients together.
 3. Combine the salad ingredients in a large bowl.
-4. Toss with the dressing just before serving.
+4. Toss with the dressing **just before serving**.
 
 ## Notes
 

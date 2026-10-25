@@ -20,8 +20,8 @@
 
 ## Instructions
 
-1. Put all the ingredients in a saucepan. Bring to a simmer over high heat, then reduce to medium-low and simmer, stirring occasionally, for 30 minutes.
-2. Pour into a heat-proof bowl. Cover and refrigerate for 2 days.
+1. Put all the ingredients in a saucepan. Bring to a simmer over high heat, then reduce to medium-low and simmer, stirring occasionally, for **30 minutes**.
+2. Pour into a heat-proof bowl. Cover and refrigerate for **2 days**.
 3. Strain through a mesh sieve to remove the red pepper flakes.
 4. Store in the refrigerator. Bring to room temperature before serving.
 

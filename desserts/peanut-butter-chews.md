@@ -13,7 +13,7 @@
 
 ## Instructions
 
-1. In a heavy saucepan over medium heat, mix the peanut butter, corn syrup, and sugar. Bring to a boil, then remove from the heat.
+1. In a heavy saucepan over medium heat, mix the peanut butter, corn syrup, and sugar. **Bring to a boil, then remove from the heat**.
 2. Add the cereal, mix well, and shape into small balls.
 
 ## Notes

@@ -15,7 +15,7 @@
 ## Instructions
 
 1. Stir the mustard, honey, brown sugar, and vinegar together in a saucepan over medium heat. Season with black pepper.
-2. Bring to a boil, then simmer, stirring, for 5 minutes.
+2. Bring to a boil, then simmer, stirring, for **5 minutes**.
 
 ## Notes
 

@@ -14,10 +14,10 @@
 
 ## Instructions
 
-1. Melt the peanut butter and butter together in a medium saucepan over low heat, stirring often.
+1. Melt the peanut butter and butter together in a medium saucepan over **low heat**, stirring often.
 2. Mix the confectioners' sugar and cereal in a large bowl until well combined. Pour in the peanut butter mixture and stir until well combined. The mixture will be crumbly but will hold together when pressed.
-3. Form into 1-inch balls and place on parchment-lined cookie sheets. Cover with plastic wrap and refrigerate until firm, 3 hours to overnight.
-4. Melt the chocolate in a double boiler over low heat.
+3. Form into 1-inch balls and place on parchment-lined cookie sheets. Cover with plastic wrap and refrigerate until firm, **3 hours to overnight**.
+4. Melt the chocolate in a **double boiler over low heat**.
 5. Drop 1 peanut butter ball into the chocolate and roll it with 2 forks to coat. Let the excess drip back into the pot, then place on a wire rack set over parchment paper. Repeat with the remaining balls.
 6. Refrigerate until firm before serving.
 
